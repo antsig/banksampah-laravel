@@ -12,9 +12,11 @@ Pemrograman Web II Universitas Siber Asia. Project Bank Sampah menggunakan Frame
 
 *Staffing*
 * login logout : Alpha
-* kategori - tambah data : 
-* kategori - edit dan hapus :
-* nasabah - tambah : 
-* nasabah - detail data : 
+* kategori - tambah data : Mike
+* kategori - edit dan hapus : Yosa
+* nasabah - tambah : Farhan
+* nasabah - detail data : Syarifuddin
 * nasabah - edit dan hapus : Fandi
 * transaksi : Sigid
+
+
